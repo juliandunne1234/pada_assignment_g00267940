@@ -1,0 +1,6 @@
+Identifier,country,city,language
+Ire,Ireland,Dublin,english
+Hun,Hungary,Budapest,hungarian
+Ger,Germany,Berlin,german
+Swe,Sweden,Stockholm,english
+Fra,France,Paris,french
